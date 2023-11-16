@@ -18,7 +18,9 @@ Tout d'abord, il fallait apprendre le logiciel MadMapper. Lors du cours de conce
 
 ![image](https://github.com/ghita04/Prototype/assets/93718412/43dc75fb-bdb3-4c3b-b747-5fe28429c698)
 
-3. Mapper plein d'images sur les boites 
+3. Mapper plein d'images sur les boites
+
+![Web 1920 – 1](https://github.com/ghita04/Prototype/assets/93718412/54762804-3442-4e2d-b32d-13e39d075c60)
 
 ##  Résultat
 
