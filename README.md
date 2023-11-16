@@ -11,8 +11,14 @@ Dans le cadre du projet final, j'aimerais m'occuper du **mapping* qui sera néce
 Tout d'abord, il fallait apprendre le logiciel MadMapper. Lors du cours de conception multimédias, nous avons eu l'occasion de l'apprendre. J'ai pu ensuite tester la facilité d'intégrer certaines images dans des endroits restreints ou délimités.
 
 1. Installer les projecteurs.
-2. Installer les boites
-3. Mapper plein d'images sur les boites 
+
+![image](https://github.com/ghita04/Prototype/assets/93718412/7fa7fe07-f1aa-4bd6-84e4-d686acecfbf1)
+
+3. Installer les boites avec un rideau pour un effet **3D*
+
+![image](https://github.com/ghita04/Prototype/assets/93718412/43dc75fb-bdb3-4c3b-b747-5fe28429c698)
+
+4. Mapper plein d'images sur les boites 
 
 ##  Résultat
 
